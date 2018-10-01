@@ -21,7 +21,7 @@ The main shortcoming of this definition is that there are customers who only rec
 Customers who have not done any usage, either incoming or outgoing - in terms of calls, internet etc. over a period of time.
 A potential shortcoming of this definition is that when the customer has stopped using the services for a while, it may be too late to take any corrective actions to retain them. For e.g., if you define churn based on a ‘two-months zero usage’ period, predicting churn could be useless since by that time the customer would have already switched to another operator.
 In this project, you will use the usage-based definition to define churn.
-<b> High-value Churn
+<b> High-value Churn</b>
 In the Indian and the southeast Asian market, approximately 80% of revenue comes from the top 20% customers (called high-value customers). Thus, if we can reduce churn of the high-value customers, we will be able to reduce significant revenue leakage.
 In this project, you will define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
 
